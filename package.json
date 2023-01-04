@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "node index.js"
+  },
+
   "dependencies": {
     "config": "^3.3.8",
     "node-telegram-bot-api": "^0.60.0",
